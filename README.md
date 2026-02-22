@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end | Game Developer | Designer | Criador de Experiências Digitais`**
 
-Sou Designer formado, Desenvolvedor Front-end e Game Developer com foco em Unity. Atuo na criação de experiências digitais e interativas, unindo design, tecnologia e criatividade. Tenho experiência em design gráfico, desenvolvimento de jogos, marketing digital, mídias sociais e criação de conteúdo, o que me proporciona uma visão ampla de produto, usuário e comunicação. Atualmente, foco em Front-end (HTML, CSS, JavaScript), Game Development com Unity e UI/UX Design, buscando oportunidades como freelancer, projetos, parcerias ou posições júnior.
+Sou Designer formado, Desenvolvedor Front-end e Game Developer com foco em Unity. Crio experiências digitais e interativas unindo design, tecnologia e criatividade.
 
 <p align="left">
     </a> 
@@ -24,8 +24,7 @@ Sou Designer formado, Desenvolvedor Front-end e Game Developer com foco em Unity
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
+## 🚀 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
@@ -106,6 +105,11 @@ align="left"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
 />
-          
-          
-          
+<br>
+<br>
+
+## 📌 Em foco
+- Desenvolvimento Front-end
+- Game Development com Unity
+<br>
+📬 Aberto a freelas, projetos, parcerias e posições júnior.

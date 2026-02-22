@@ -1,6 +1,6 @@
 # 🎮 Ale Buffo 
 
-**`Desenvolvedor Front-end | Game Developer | Designer | Criador de Experiências Digitais`**
+**`Desenvolvedor Front-end | Game Developer (Unity) | UI/UX Design`**
 
 Sou Designer formado, Desenvolvedor Front-end e Game Developer com foco em Unity. Crio experiências digitais interativas com foco em usabilidade, performance e design.
 

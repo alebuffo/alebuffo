@@ -3,8 +3,8 @@
 **`QA Tester | Qualidade de Software | Front-end | Design | Games`**
 
 Profissional com experiência em **Qualidade de Software (QA)**, atuando com **testes manuais**, validação de interfaces, análise de fluxos e reporte de bugs.
-Possuo background em **Front-end (HTML, CSS e JavaScript)**, **UX/UI Design** e **desenvolvimento de jogos**, o que me proporciona uma visão completa do produto — do comportamento técnico à experiência do usuário.
-Este GitHub é utilizado para documentar **casos de teste**, **relatórios de bugs**, **projetos de estudo aplicados** e evolução técnica em QA, incluindo automação de testes.
+Possuo background em **Front-end (HTML, CSS e JavaScript)**, **UX/UI Design** e **desenvolvimento de jogos**, o que me proporciona uma visão completa do produto do comportamento técnico à experiência do usuário.
+Este GitHub é utilizado para documentar **casos de teste**, **relatórios de bugs**, **projetos de estudo aplicados** e evolução técnica..
 
 <p align="left">
     </a> 

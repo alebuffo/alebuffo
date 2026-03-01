@@ -1,8 +1,10 @@
 # 🎮 Ale Buffo 
 
-**`Desenvolvedor Front-end | Game Developer (Unity) | UI/UX Design`**
+**`QA Tester | Qualidade de Software | Front-end | Design | Games`**
 
-Sou Designer formado, Desenvolvedor Front-end e Game Developer com foco em Unity. Crio experiências digitais interativas com foco em usabilidade, performance e design.
+Profissional com experiência em **Qualidade de Software (QA)**, atuando com **testes manuais**, validação de interfaces, análise de fluxos e reporte de bugs.
+Possuo background em **Front-end (HTML, CSS e JavaScript)**, **UX/UI Design** e **desenvolvimento de jogos**, o que me proporciona uma visão completa do produto — do comportamento técnico à experiência do usuário.
+Este GitHub é utilizado para documentar **casos de teste**, **relatórios de bugs**, **projetos de estudo aplicados** e evolução técnica em QA, incluindo automação de testes.
 
 <p align="left">
     </a> 
@@ -106,10 +108,39 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
 />
 <br>
-<br>
 
-## 📌 Em foco
-- Front-end (HTML, CSS, JavaScript, React)
-- Game Development com Unity (C#)
-<br>
-📬 Disponível para freelas, projetos e vagas júnior.
+---
+
+## 🎯 Foco Atual
+- Testes manuais de software
+- Validação de interfaces e fluxos
+- Documentação de casos de teste
+- Reporte estruturado de bugs
+- Qualidade e experiência do usuário (UX)
+
+---
+
+## 🚀 Base Técnica
+- HTML5
+- CSS3
+- JavaScript
+- Manipulação do DOM
+- Lógica de Programação
+
+---
+
+## 📈 Em Evolução
+- Testes automatizados (Cypress / Playwright)
+- Integração QA + Front-end
+- Melhoria contínua em processos de qualidade
+
+---
+
+## 🎨 Experiência Complementar
+- UI/UX Design
+- Desenvolvimento Front-end
+- Game Development (Unity / C#)
+
+---
+
+📬 Disponível para oportunidades como **QA Tester / Analista de Qualidade de Software**.
